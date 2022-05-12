@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: #d0d0d0;
+}
+input{
+    border-radius: 5px;
+}
+textarea{
+    width: 35%;
+    height: 50%;
+}
